@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Material Design Theme</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="tab_satu">&#xf017;</string>
+    <string name="tab_dua">&#xf11c;</string>
+    <string name="tab_tiga">&#xf197;</string>
+    <string name="fragment_satu">Fragment Satu</string>
+    <string name="fragment_dua">Fragment Dua</string>
+    <string name="fragment_tiga">Fragment Tiga</string>
+</resources>
